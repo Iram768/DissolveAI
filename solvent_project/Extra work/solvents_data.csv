@@ -1,0 +1,9 @@
+Solvent,Polarity,DielectricConstant,BoilingPoint,Density,Class,Solute,SolutePolarity,SoluteMW,SoluteLogP,SolubilityLevel,SolubilityPercent
+Water,Polar,80.1,100,1.00,Alcohol,NaCl,Polar,58.44,-1.9,High,36
+Water,Polar,80.1,100,1.00,Alcohol,Oil,Non-Polar,250,5.6,Low,0.01
+Ethanol,Polar,24.6,78,0.79,Alcohol,Sugar,Polar,180,-3.2,High,200
+Ethanol,Polar,24.6,78,0.79,Alcohol,NaCl,Polar,58.44,-1.9,Medium,10
+Hexane,Non-Polar,1.9,69,0.66,Hydrocarbon,NaCl,Polar,58.44,-1.9,Low,0.001
+Hexane,Non-Polar,1.9,69,0.66,Hydrocarbon,Oil,Non-Polar,250,5.6,High,80
+Acetone,Polar,20.7,56,0.79,Ketone,Sugar,Polar,180,-3.2,High,100
+Chloroform,Non-Polar,4.8,61,1.49,Halocarbon,Caffeine,Polar,194,-0.1,Medium,20
