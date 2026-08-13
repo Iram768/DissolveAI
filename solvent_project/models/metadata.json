@@ -1,0 +1,20 @@
+{
+  "temperature_min": 243.15,
+  "temperature_max": 425.77,
+  "solubility_lower_bound": 7.43219697010574e-10,
+  "solubility_upper_bound": 309.79257603738625,
+  "solubility_threshold": -2.0,
+  "total_solvents": 70,
+  "unique_solvents_example": [
+    "ethanol",
+    "methanol",
+    "isopropanol",
+    "water",
+    "ethyl acetate",
+    "n-propanol",
+    "acetone",
+    "n-butanol",
+    "acetonitrile",
+    "DMF"
+  ]
+}
